@@ -1,19 +1,11 @@
 <p align="center">
-<img src="images/greetings_neon.png" alt="greetings" />
+<img src="images/greetingss.png" alt="greetings" />
 </p>
 
 <p align="center">
 <img src="images/city_neon.gif" alt="city" />
 </p>
 
-<p align="center">
-<img src="images/about_me_neon.png" alt="about me" />
-</p>
-
-
-<p align="center">
-<img src="images/about_me.png" alt="about_me" width = "500"  heaight = "400"/>
-</p>
 
 <p align="center">
 <img src="images/reach_me_neon.png" alt="reach me" />
