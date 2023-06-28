@@ -39,4 +39,4 @@
 <img src="images/activity_stonks_neon.png" alt="Activity" />
 </p>
 
-[![Vishnu's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZENODIUM&theme=redical)](https://github.com/ZENODIUM/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZENODIUM&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
