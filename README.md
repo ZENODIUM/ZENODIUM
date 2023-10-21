@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/greetingss.png" alt="greetings" />
+<img src="images/greetings_image.png" alt="greetings" />
 </p>
 
 <p align="center">
