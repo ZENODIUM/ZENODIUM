@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="images/reach.png" alt="reach me" />
+<img src="images/reac.png" alt="reach me" />
 </p>
 
 
