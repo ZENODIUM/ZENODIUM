@@ -29,7 +29,7 @@
 
 
 <p align="center">
-<img src="images/statss_neon.png" alt="stats" />
+<img src="images/stats_img.png" alt="stats" />
 </p>
 
 [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZENODIUM&theme=radical)](https://github.com/ZENODIUM/github-readme-stats)
