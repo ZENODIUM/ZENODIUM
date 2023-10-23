@@ -2,7 +2,6 @@
 <img src="images/greet.png" alt="greetings" />
 </p>
 
-<hr>
 
 <p align="center">
 <img src="images/city_neon.gif" alt="city" />
