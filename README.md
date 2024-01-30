@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="images/city_neon.gif" alt="city" />
+<img src="images/city_neon.gif" alt="city" width="300" height="200" />
 </p>
 
 
