@@ -1,4 +1,4 @@
-# Bio:
+# 👔 Bio:
 ⚙️ AI | ML enthusiast<br>💻 Working currently as python developer<br>❤️ Up for Convo | making friends<br>♟️ Chess Artist
 
 
