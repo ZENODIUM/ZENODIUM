@@ -32,13 +32,13 @@
 <p align="center">
 <img src="images/stat.png" alt="stats" width="200" height="100"/>
 </p>
-<p align="center">
+<div align="center">
 [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZENODIUM&theme=radical)](https://github.com/ZENODIUM/github-readme-stats)
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZENODIUM&layout=compact&theme=radical)](https://github.com/ZENODIUM/github-readme-stats)
-</p>
+</div>
 <p align="center">
-<img src="images/stonks.png" alt="Activity" width="200" height="100"/>
+<img src="images/stonks.png" alt="Activity" width="200" height="100" />
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZENODIUM&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
