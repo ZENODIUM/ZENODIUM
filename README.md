@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-<img src="images/skill.png" alt="skills" />
+<img src="images/skill.png" alt="skills" width="200" height="100"/>
 </p>
 
 
