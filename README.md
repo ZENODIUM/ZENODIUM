@@ -30,7 +30,7 @@
 
 
 <p align="center">
-<img src="images/stat.png" alt="stats" />
+<img src="images/stat.png" alt="stats" width="200" height="100"/>
 </p>
 
 [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZENODIUM&theme=radical)](https://github.com/ZENODIUM/github-readme-stats)
