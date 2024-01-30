@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src="images/reac.png" alt="reach me" />
+<img src="images/reac.png" alt="reach me" width="200" height="100" />
 </p>
 
 
