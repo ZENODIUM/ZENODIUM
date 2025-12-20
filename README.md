@@ -1,5 +1,5 @@
 ## 👔 Bio:
-⚙️ AI | ML enthusiast<br>💻 Working currently as python developer<br>❤️ Up for Convo | making friends<br>♟️ Chess Artist
+⚙️ AI | ML enthusiast<br>💻 MSCS @ NYU<br>❤️  | making friends<br>♟️ Chess Gambler
 
 
 ## 🌐 Socials:
