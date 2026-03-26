@@ -12,7 +12,7 @@
 
 ### About
 
-MSCS @ NYU · ML Engineer Intern @ Runova Inc · Kaggle Master · 5x Hackathon Winner  
+MSCS @ NYU · ML Engineer Intern @ Runova Inc · Kaggle Master · 7x Hackathon Winner  
 Fluent in Python (both kinds).
 
 Currently building on-device AI for skin diagnostics. Previously at Tata Technologies building agentic AI systems.  
